@@ -1,4 +1,4 @@
-##Endpoint-Focus Meditation Regulates Strategic Present-Orientation: An Exploratory fNIRS Study##
+##Episodic Endpoint-Focus Thinking Regulates Strategic Present-Orientation: An fNIRS Study##
 
 Welcome to the GitHub repository for our research project. This repository contains the code and data used in our study.
 
@@ -70,4 +70,4 @@ Files: SpatialRegistration_BA.txt, SpatialRegistration_MNI.txt
 Toolboxes: SPM8 and NIRS-SPM (MATLAB version R2013b)
 Reference: https://doi.org/10.1016/j.neuroimage.2008.08.036
 
-##Edited on January 10, 2025
+##Edited on January 17, 2025
